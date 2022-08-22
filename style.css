@@ -1,0 +1,34 @@
+*{
+    margin: auto;
+    padding: 0%;
+}
+.container{
+    font-family: 'Poppins', sans-serif;
+    width: 1200px;
+}
+.top-banner{
+    background-image: url(images/donation8.jpg);
+    width: 1200px;
+    height: 500px;
+    text-align: center;
+    color: white;
+    margin: auto;
+    display: block;
+}
+.top-banner h1{
+    font-size: 50px;
+    padding-top: 100px;
+}
+.top-banner p{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.top-banner a{
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    padd
+}
