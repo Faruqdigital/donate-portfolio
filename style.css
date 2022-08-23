@@ -11,19 +11,19 @@
         background-image: url(images/donation8.jpg);
         width: 1200px;
         height: 500px;
-        text-align: center;
-        color: white;
         margin: auto;
         display: block;
+        text-align: center;
     }
     .top-banner h1{
         font-size: 50px;
         padding-top: 100px;
+        color: rgb(255, 253, 253);
     }
     .top-banner p{
         padding-top: 20px;
         padding-bottom: 40px;
-        color: #fdfafa;
+        color: #f5e2e2;
     }
     .top-banner a{
         text-decoration: none;
@@ -279,8 +279,6 @@
         color: #FF5959;
         font-family: 'Emilys Candy', cursive;
         font-style: italic;
-
-
     }
     footer p{
         padding-top: 10px;
