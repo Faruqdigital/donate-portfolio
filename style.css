@@ -48,6 +48,7 @@
 .box{
     display: flex;
     margin-bottom: 40px;
+    width: 718px;
 }
 .box1{
     width: 100px;
@@ -244,14 +245,26 @@ font-size: 42px;
         height: 130px;
         border-radius: 10px;
         margin-top: 40px;
-        display: flex;
     }
-    .contact-us{
-        width: 432px;
-        height: 48px;
+    .contat-iu{
+        display: flex;
+        padding-top: 30px;
+        width: 550px;
+        height: 50px;
+    }
+    .emai-info{
         background-color: #D9D9D9;
-        border-radius: 5px;
-       justify-content: space-between;
+        height: 30px;
+        width: 300px;
+        padding: 20px;
+        border-radius-: 2px;
+    }
+    .sub-btn{
+        background-color: #FF5959;
+        height: 30px;
+        width: 200px;
+        padding: 20px;
+        border-radius: 3px;
     }
     /* footer */
     footer{
