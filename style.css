@@ -195,3 +195,81 @@ hr{
     color: #979999;
      padding-bottom: 10px;
 }
+/* donation */
+.banner1{
+    display: flex;
+    margin-top: 70px;
+}
+.half-width{
+    width: 50%;
+    margin-bottom: 30px;
+}
+.half-width h1{
+font-size: 42px;
+}
+.half-width p{
+    color: #939393;
+    margin-bottom: 20px;
+}
+.half-width img{
+    width: 80%;
+}
+.half-width a{
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+    .banner2{
+        display: flex;
+        margin-top: 70px;
+    }
+
+    .information{
+        margin-top: 80px;
+    }
+    .my-update{
+        text-align: center;
+    }
+    .my-update h1{
+        font-size: 38px;
+    }
+    .my-update p{
+        color: #939393;
+    }
+    .contact{
+        background-color: #FFF4D6;
+        width: 700px;
+        height: 130px;
+        border-radius: 10px;
+        margin-top: 40px;
+        display: flex;
+    }
+    .contact-us{
+        width: 432px;
+        height: 48px;
+        background-color: #D9D9D9;
+        border-radius: 5px;
+       justify-content: space-between;
+    }
+    /* footer */
+    footer{
+        text-align: center;
+        margin-top: 100px;
+        background-color: black;
+        color: whitesmoke;
+        height: 100px;
+        padding-top: 40px;
+    }
+    footer h1{
+        color: #FF5959;
+        font-family: 'Emilys Candy', cursive;
+        font-style: italic;
+
+
+    }
+    footer p{
+        padding-top: 10px;
+        color: #939393;
+    }
